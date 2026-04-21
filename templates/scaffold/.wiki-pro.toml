@@ -1,0 +1,11 @@
+[wiki]
+name = "my-wiki"
+strict = true
+
+# Optional: override WIKI_ROOT for this wiki
+# root = "/absolute/path/to/wiki"
+
+# Tags are freeform by default.
+# To enforce a controlled vocabulary, uncomment and populate:
+# [tags.controlled]
+# allowed = ["tag-a", "tag-b"]
